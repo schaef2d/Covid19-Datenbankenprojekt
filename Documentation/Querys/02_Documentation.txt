@@ -1,0 +1,21 @@
+CHINA ANALYSE 
+
+-Die Zahlen für China zeigen, dass die Fallzahlen bei den strengsten Maßnahmen (W43) relativ niedrig blieben, was auf die Effektivität strikter Lockdowns hindeutet.
+-Selbst bei minimalen Einschränkungen zu Beginn der Pandemie (W01) blieben die Fallzahlen niedrig, was möglicherweise auf eine schnelle Reaktion und die allgemeine Akzeptanz der Maßnahmen zurückzuführen ist.
+
+USA ANALYSE
+-Während der höchsten Maßnahmen (W03) waren die Fallzahlen in den USA extrem hoch, was darauf hinweist, dass die Maßnahmen möglicherweise nicht konsequent oder rechtzeitig umgesetzt wurden.
+-Bei minimalen Maßnahmen (W10) waren die Fallzahlen deutlich geringer, jedoch wuchs die Pandemie schnell an, als die Beschränkungen nicht verschärft wurden.
+
+INDIA ANALYSE
+-Während der strengsten Maßnahmen im Jahr 2021 (W15) waren die Fallzahlen zwar noch hoch, jedoch zeigte sich ein Rückgang im Vergleich zu den Wochen zuvor. Dies deutet auf die Wirksamkeit der Maßnahmen hin, insbesondere nach einer langen Phase mit moderaten Beschränkungen.
+-Zu Beginn der Pandemie (W02) gab es bei einem Stringenzindex von 0 keine gemeldeten Fälle, da die Pandemie in Deutschland zu diesem Zeitpunkt noch nicht signifikant angekommen war.
+
+GERMANY ANALYSE
+-Indien führte die strengsten Maßnahmen (W16) weltweit durch, jedoch waren die Fallzahlen damals noch moderat. Dies spricht für die frühe Einführung von Lockdowns.
+-Bei gelockerten Maßnahmen im Jahr 2021 (W23) erreichten die Fallzahlen einen Höhepunkt, was auf die Unkontrollierbarkeit der Pandemie in einer hochdichten Bevölkerung hinweist.
+
+VERGLEICH DER STRATEGIEN
+-Vergleich der Strategien: Das Query hebt hervor, wie sich der Stringenzindex und die Fallzahlen in unterschiedlichen Ländern verhalten haben. Es zeigt, dass strikte Maßnahmen (wie in China und Deutschland) in der Regel mit niedrigeren Fallzahlen korrelierten, während weniger strenge Maßnahmen (wie in den USA oder Indien) oft zu einem Anstieg führten.
+
+
