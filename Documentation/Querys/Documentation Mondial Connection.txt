@@ -1,0 +1,16 @@
+Schritt 1:
+
+-In der Tabelle country_data der Covid-Datenbank wurde eine neue Spalte mondial_country_code hinzugefügt, um Länder mit der Mondial-Datenbank zu verknüpfen.
+
+-Für die Länder China, Germany, India und United States wurden die passenden Codes aus der Mondial-Datenbank in diese Spalte eingetragen. Die Codes stammen aus der Spalte code der Mondial-Tabelle public.country.
+
+Schritt 2: 
+
+-Es wurde sichergestellt, dass die Spalten location (Covid-Datenbank) und name (Mondial-Datenbank) inhaltlich übereinstimmen.
+
+-Eine SQL-Abfrage wurde erstellt, um sicherzustellen, dass alle Länder in beiden Datenbanken eindeutig zugeordnet werden können.
+
+Schritt 3:
+
+-Die Spalte mondial_country_code in der Covid-Datenbank wurde als Foreign Key definiert und mit der Spalte code der Mondial-Tabelle public.country verknüpft.
+
