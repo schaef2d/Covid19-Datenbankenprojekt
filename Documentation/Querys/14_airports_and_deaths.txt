@@ -1,0 +1,8 @@
+Zusammenhang zwischen Flughafendichte und Todesfällen:
+
+Länder mit mehr Flughäfen, wie die USA, weisen höhere Todeszahlen auf, was die Rolle der Mobilität bei der Verbreitung des Virus unterstreichen könnte.
+Länder mit strikteren Kontrollmaßnahmen, wie China, zeigen, dass eine hohe Flughafendichte nicht zwangsläufig zu hohen Todeszahlen führt.
+
+Einschränkungen:
+
+Die Analyse zeigt nur eine Korrelation, keine Kausalität. Andere Faktoren wie Bevölkerungsgröße, Maßnahmen und Gesundheitssysteme beeinflussen die Todeszahlen stark.
