@@ -1,0 +1,10 @@
+Das zweite Query erweitert die Analyse, indem es die Bevölkerungsdichte (population_density) hinzufügt. Zusätzlich wurde eine Kategorie eingefügt, die Länder in "Low Density", "Medium Density" und "High Density" einteilt:
+
+Low Density: Bevölkerungsdichte unter 100 (z. B. USA).
+Medium Density: Bevölkerungsdichte zwischen 100 und 500 (z. B. Deutschland, Indien, China).
+High Density: Über 500 (nicht im aktuellen Datensatz).
+
+USA: Trotz niedriger Bevölkerungsdichte hat die USA die höchste Sterberate, was auf andere Faktoren wie das Gesundheitssystem oder die Maßnahmen zurückzuführen sein könnte.
+
+-Deutschland, Indien, China: Diese Länder mit mittlerer Bevölkerungsdichte zeigen unterschiedliche Sterberaten. Indien hat trotz hoher Bevölkerungsdichte eine relativ niedrige Sterberate, während Deutschland mit ähnlicher Dichte eine deutlich höhere Sterberate aufweist.
+-Relevanz: Dieses Query verdeutlicht, dass die Bevölkerungsdichte nicht alleiniger Faktor für die Sterberate ist. Länder mit niedriger Bevölkerungsdichte (z. B. USA) können dennoch stark betroffen sein, während Länder mit höherer Dichte (z. B. China) effektive Strategien zur Eindämmung der Pandemie umgesetzt haben könnten.
