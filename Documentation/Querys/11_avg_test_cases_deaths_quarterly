@@ -1,16 +1,18 @@
 11_avg_test_cases_deaths_quarterly
 
-Testing Rates:
-China shows a high and increasing average tests per thousand across quarters, peaking in Q4 (1800.00).
-Germany and United States also show increasing testing rates, with the United States peaking in Q4 (1235.75).
-India has the lowest testing rates, though they increase over time, peaking in Q4 (265.60).
+China:
+Maintains low total quarterly cases and deaths throughout the period.
+Peaks in Q2 for both cases and deaths, indicating a brief surge that was effectively controlled.
 
-New Cases:
-China maintains relatively low average quarterly cases, with a slight peak in Q2 (711.88).
-Germany and United States show significant fluctuations, with Germany peaking in Q4 (160958.73) and the United States peaking in Q4 (810890.88).
-India shows very high average quarterly cases, peaking in Q2 (722670.73).
+Germany:
+Shows significant fluctuations in both cases and deaths.
+Peaks in Q4 for both metrics, suggesting a strong correlation between the rise in cases and subsequent increase in deaths during this period.
 
-New Deaths:
-China maintains low average quarterly deaths, with a peak in Q2 (75.73).
-Germany and United States show significant fluctuations, with Germany peaking in Q4 (2284.96) and the United States peaking in Q1 (12377.53).
-India shows high average quarterly deaths, peaking in Q2 (9625.73).
+India:
+Exhibits very high total quarterly cases and deaths.
+Peaks in Q2 for both cases and deaths, indicating a severe wave of infections that led to a high mortality rate.
+
+United States:
+Displays significant fluctuations in both cases and deaths.
+Peaks in Q4 for both metrics, similar to Germany, showing a correlation between increased cases and higher deaths during this quarter.
+Overall, the data indicates that higher infection rates in a given quarter generally lead to higher mortality rates in the same period. This pattern is consistent across different countries, highlighting the critical need for effective public health measures to manage and mitigate the impact of COVID-19.
