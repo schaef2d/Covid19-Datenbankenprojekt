@@ -1,0 +1,7 @@
+Query 1: 
+
+Beschreibung: Vergleich zwischen Sterberaten und vaccinations 
+
+Analyse: Länder mit hoher Impfquote und effektiven Maßnahmen (z. B. China) zeigen eine niedrigere Sterberate.
+Länder mit einer hohen Sterberate (z. B. USA) könnten von unzureichenden Maßnahmen, einer geringeren Impfquote oder anderen Faktoren betroffen sein.
+

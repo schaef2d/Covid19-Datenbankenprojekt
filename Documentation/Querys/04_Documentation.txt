@@ -1,0 +1,5 @@
+Query 4
+
+Der Output zeigt, dass die USA mit 1974,93 Todesfällen pro Million die höchste Sterberate aufweisen, gefolgt von Deutschland mit 1150,13. Indien und China haben mit 240,71 bzw. 15,21 eine deutlich niedrigere Sterberate.
+
+Relevanz: Dieses Query dient als Grundlage, um Unterschiede in den Sterberaten zwischen den Ländern aufzuzeigen. Es ermöglicht Vergleiche und legt den Fokus darauf, wie schwer Länder von der Pandemie betroffen waren.

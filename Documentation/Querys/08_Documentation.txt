@@ -1,0 +1,26 @@
+Query 2: 
+
+Beschreibung: Impfungen todesfälle und tests pro tausend
+
+Analyse: 
+
+USA: Höchste durchschnittliche Anzahl an Tests pro 1000 Einwohner (362,65).
+Trotzdem eine hohe Sterberate (603,33), was auf eine verzögerte Reaktion oder weniger strenge Maßnahmen hindeuten könnte.
+Indien:
+
+Indien: Moderat niedrige Sterberate (51,21) und geringe Anzahl an Tests (52,76).
+Möglicherweise gab es Kapazitätsprobleme im Gesundheitssystem, die das Testen erschwerten.
+
+
+China: Sehr niedrige Sterberate (3,20) und die höchste Testquote (887,50 Tests pro 1000 Einwohner).
+Die Daten deuten auf eine proaktive Strategie hin, die mit umfangreichen Tests und strikten Maßnahmen erfolgreich war.
+
+
+Deutschland: Durchschnittliche Sterberate (259,67) und eine Testquote von 207,22 Tests pro 1000 Einwohner.
+Die Werte deuten auf ein moderates Maßnahmenpaket hin, das teils erfolgreich war, aber durch steigende Todeszahlen begrenzt.
+
+Die Kombination beider Querys gibt Einblicke in die Wirksamkeit von Impfungen und Teststrategien.
+Länder mit mehr Tests und Impfungen pro Kopf haben tendenziell eine niedrigere Sterberate (z. B. China).
+Länder mit einer hohen Sterberate (z. B. USA) könnten von weniger strengen Maßnahmen oder strukturellen Herausforderungen betroffen gewesen sein.
+
+
